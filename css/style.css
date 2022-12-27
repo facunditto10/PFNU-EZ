@@ -1,3 +1,29 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
 
+nav {
+  height: 10vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+}
+nav ul li {
+  margin-right: 2.5rem;
+}
+nav ul li a {
+  text-decoration: none;
+  color: rgb(153, 0, 255);
+}
+nav ul li a:hover {
+  color: red;
+}
 
 /*# sourceMappingURL=style.css.map */
