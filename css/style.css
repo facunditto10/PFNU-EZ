@@ -1,0 +1,13 @@
+.menu {
+  background-color: #d6e5f0;
+}
+
+body {
+  padding-top: 4.5rem;
+}
+
+@media (min-width: 768px) {
+  .quincho {
+    width: 50%;
+  }
+}
